@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+python-dotenv
+openpyxl
+python-docx
+PyPDF2
+tqdm
